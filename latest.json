@@ -1,0 +1,15 @@
+{
+  "version": "0.9.0",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2023-06-29T15:26:52.990Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVXhsTkxQdm9Tc1FUankxckw5eW1nRWhYeGJ2Zm9iaXpOMEx0Mk5JZHYwckFRYkNQZ3crL2ZIbklxeHlNVGd6MXV0WEV0VHMyVWdYQzhTY3FVdFkwREJaVng4Qi9iOFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4MDUyMTc3CWZpbGU6c3ByaW50XzAuOS4wX2FtZDY0LkFwcEltYWdlLnRhci5negowZDZUcmhNU1hsVXhJV2JId1JsL3hpSHpFQXR4UFk2Nml1VTFFUnZzeElwaWw2SldyaFhiT1d6VkJUYkx6MkNQYklzU3ZBQU1FL3M5cjBTOW94dmlCdz09Cg==",
+      "url": "https://github.com/sprintrest/app/releases/download/sprint-v0.9.0/sprint_0.9.0_amd64.AppImage.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVXhsTkxQdm9Tc2NMZTF6RWFZbEE3UnRHWHc2MVNneXdrdFNNejMzbnZ1aVorNURJMXRaSHVrYWJHcVAxVE1BV3M2ckJwRzFWcUNXN3FhK083YVoxcWhtd1ZUVlh5VndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4MDUyNDA1CWZpbGU6c3ByaW50LmFwcC50YXIuZ3oKdkcwSkZNY05yRXFSM1UvOFcrZ0tpeXpPV01RWHZzSmgzME8yZVlUdDJJbkVBclpwRU1JTWZET2NSVXJHSCtoNUJKK0tkV1JDZksxTS8wRjJSZXpFQXc9PQo=",
+      "url": "https://github.com/sprintrest/app/releases/download/sprint-v0.9.0/sprint_x64.app.tar.gz"
+    }
+  }
+}
